@@ -1,0 +1,8 @@
+Package: @@PACKAGENAME@@
+Name: @@FULLPROJECTNAME@@
+Depends: mobilesubstrate, com.imokhles.aoraki2, firmware (>= 8.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A Simple Button for Aoraki2!
+Author: @@USER@@ <@@USEREMAIL@@>
+Section: Addons (Aoraki2)

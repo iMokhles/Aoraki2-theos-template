@@ -1,0 +1,7 @@
+{
+	"identifier" : "@@PACKAGENAME@@",
+	"buttonExecutable" : "@@PROJECTNAME@@.dylib",
+	"buttonClass" : "@@PROJECTNAME@@Button",
+	"buttonTitle" : "@@PROJECTNAME@@Button",
+	"buttonIcon" : "@@PROJECTNAME@@Button"
+}
