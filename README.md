@@ -18,6 +18,10 @@ buttonIcon = your PDF file name ( without extension )
 * implementation
 this won't be hard for you ( u know how to use it already, not you :P )
 
+## Test
+
+You can install Aoraki2 from my repo to test your new button with it apt.imokhles.com
+
 ## Contribution
 
 You are welcome to fork and submit pull requests!
