@@ -10,12 +10,17 @@ Use PDF image with transparent background ( Size 165x165 )
 * info File
 
 identifier = your package unique identifier
+
 buttonExecutable = your package dylib ( based on your LIBRARY_NAME in the Makefile )
+
 buttonClass = your button class name
+
 buttonTitle = button title which will appear in Aoraki2 menu
+
 buttonIcon = your PDF file name ( without extension )
 
 * implementation
+
 this won't be hard for you ( u know how to use it already, not you :P )
 
 ## Test
